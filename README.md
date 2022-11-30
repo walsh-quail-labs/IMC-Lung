@@ -13,9 +13,10 @@ You can find detail of each analysis in the following repositories.
 
 * [Cell Segmentation](https://github.com/walsh-quail-labs/Cell-Segmentation)
 * [Cell phenotyping](https://github.com/walsh-quail-labs/Cell-Phenotyping-Lung)
+* [Micro Environment Prediction](https://github.com/walsh-quail-labs/Machine-Learning-Jupyter-Notebooks)
 
 
 ## Data
 
-Tif files including masks for each paitionts and used for cell type assignments. Segmentation adn cell type assignment results are 
+Tif files including masks for each paitionts and used for cell type assignments. Segmentation adn cell type assignment results are provided in their sub folders. 
 
