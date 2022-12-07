@@ -18,7 +18,8 @@ You can find detail of each analysis in the following repositories.
 
 ## Data
 
-\doi{10.5281/zenodo.7383627}
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7383627.svg)](https://doi.org/10.5281/zenodo.7383627)
+
 
 The data folders on Zenodo are structured as follows:
 
