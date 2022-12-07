@@ -18,6 +18,7 @@ You can find detail of each analysis in the following repositories.
 
 ## Data
 
+\doi{10.5281/zenodo.7383627}
 
 The data folders on Zenodo are structured as follows:
 
